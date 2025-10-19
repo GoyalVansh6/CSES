@@ -1,1 +1,0 @@
-{"name":"Local: Appartments","url":"d:\\CSES\\Sorting and Searching\\Appartments.cpp","tests":[{"id":1758262382436,"input":"4 3 5\n60 45 80 60\n30 60 75","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Sorting and Searching\\Appartments.cpp","group":"local","local":true}
