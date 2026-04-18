@@ -1,1 +1,0 @@
-{"name":"Local: Palindrome_Reorder","url":"d:\\CSES\\Palindrome_Reorder.cpp","tests":[{"id":1758256390637,"input":"AAAACACBA","output":""},{"id":1758257095531,"input":"AAAAAAAAAA","output":"AAAAAAAAAA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Palindrome_Reorder.cpp","group":"local","local":true}

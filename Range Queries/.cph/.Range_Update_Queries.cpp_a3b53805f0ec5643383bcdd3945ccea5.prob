@@ -1,1 +1,0 @@
-{"name":"Local: Range_Update_Queries","url":"d:\\CSES\\Range Queries\\Range_Update_Queries.cpp","tests":[{"id":1759152161227,"input":"8 3\n3 2 4 5 1 1 5 3\n2 4\n1 2 5 1\n2 4","output":"5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Range Queries\\Range_Update_Queries.cpp","group":"local","local":true}
