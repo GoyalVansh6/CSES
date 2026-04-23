@@ -30,6 +30,7 @@ int main(){
     generateSums(mid, n, 0, v, secondHalf);
 
     sort(secondHalf.begin(), secondHalf.end());
+    
     // for(auto& [first, second]: firstHalf){
     //     cout << first << " " << second << endl;
     // }
